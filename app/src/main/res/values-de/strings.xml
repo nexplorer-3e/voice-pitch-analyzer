@@ -7,7 +7,7 @@
     <string name="title_section1">Übersicht</string>
     <string name="title_section2">Einzelne Tonhöhen</string>
     <string name="title_section3">Details</string>
-    <string name="min_max_avg">Min. Durchschn.: %1$sHz, Max. Durchschn.: %2$sHz, Durchschnitt: %3$sHz</string>
+    <string name="min_max_avg">Min. Durchschn.: %1$dHz, Max. Durchschn.: %2$dHz, Durchschnitt: %3$dHz</string>
     <string name="average">Gesamtdurchschnitt</string>
     <string name="max_avg">Durchschnittliches Maximum</string>
     <string name="min_avg">Durchschnittliches Minimum</string>

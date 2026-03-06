@@ -11,9 +11,7 @@
 <string name="title_section1">Visione generale</string>
 <string name="title_section2">Tono lungo il tempo</string>
 <string name="title_section3">Dettagli</string>
-<string name="min_max_avg">
-Min media: %1$sHz, Max media: %2$sHz, Media: %3$sHz
-</string>
+<string name="min_max_avg">" Min media: %1$dHz, Max media: %2dHz, Media: %3$dHz "</string>
 <string name="average">Media generale</string>
 <string name="min_avg">Media minima</string>
 <string name="max_avg">Media massima</string>

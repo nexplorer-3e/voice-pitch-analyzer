@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <!-- general -->
     <string name="app_name">Voice Pitch Analyzer</string>
@@ -27,7 +27,7 @@
     <string name="title_section1">Overview</string>
     <string name="title_section2">Pitch over Time</string>
     <string name="title_section3">Details</string>
-    <string name="min_max_avg">Min Avg: %1$sHz, Max Avg: %2$sHz, Average: %3$sHz</string>
+    <string name="min_max_avg">Min Avg: %1$dHz, Max Avg: %2$dHz, Average: %3$dHz</string>
     <string name="average">General Average</string>
     <string name="min_avg">Minimum Average</string>
     <string name="max_avg">Maximum Average</string>

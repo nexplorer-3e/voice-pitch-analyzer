@@ -11,9 +11,7 @@
 <string name="title_section1">Visão geral</string>
 <string name="title_section2">Tom ao longo do Tempo</string>
 <string name="title_section3">Detalhes</string>
-<string name="min_max_avg">
-Média Mínima: %1$sHz, Média Máxima: %2$sHz, Média: %3$sHz
-</string>
+<string name="min_max_avg">" Média Mínima: %1$dHz, Média Máxima: %2$dHz, Média: %3$dHz "</string>
 <string name="average">Média Geral</string>
 <string name="min_avg">Média mínima</string>
 <string name="max_avg">Média máxima</string>
